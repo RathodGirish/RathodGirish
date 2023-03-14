@@ -21,7 +21,17 @@ PROJECTS
 
         Cupcake is an web application for US based company. Main feature of application is to book resort, cruise, flight and other itineraries for client. Client get email of confirmation of booking and agent get payment for that trip.
         
-2. Transmodal - Manage company data.
+2. Indyra.
+
+        Technology : MERN stack
+
+        Database : Mongodb
+
+        FrontEnd : React, Bootstrap, Material, HTML5, CSS
+
+        Indyra provides Coupon for branded products. User subscriptions to get redeem points to purchase branded products. Admin can manage users, redeem codes, products, brands etc       
+        
+3. Transmodal - Manage company data.
 
         Technology : Node Js, Express Js
 
