@@ -1,13 +1,13 @@
 GIRISH RATHOD
 
-MEAN Stack Web Developer (8+ years Experience)
-(MongoDB, Express.js, AngularJs, NodeJs) | React | Vue | Google script expert | IONIC Cross Platform Application Development
+MEAN/MERN Full Stack Web Developer (8+ years Experience)
+MONGODB | NODEJS | EXPRESS.JS | ANGULAR 8+ | REACT | VUE | GOOGLE SCRIPT EXPERT | REACT NATIVE PLATFORM APP DEVELOPMENT
 
 ABOUT ME
 
-I am professional and full time MEAN (MongoDB, Express.js, AngularJs, NodeJs) stack Developer, Also expert for Google script, React, Vue, IONIC, Web Designer for responsive website creation.
+Hi I'm Girish Rathod professional and full time MEAN (MongoDB, Express.js, Angular 8+, NodeJs) and MERN (MongoDB, Express.js, React, NodeJs) stack Developer, Also expert for Google script, React, Vue, IONIC, Web Designer for responsive website creation.
 
-I have strong experience with NodeJs framworks like express.js, Sails.Js, Strongloop etc. Also worked with mongodb database with nodejs as backend. I have work experience with Angular6, IONIC, IONIC4, Firebase, Amazon Web Services, S3 bucket, React, Git, Gitlab, REST API, Google script, Google API services, Google Maps, Bootstrap, Material Design, JSON, Jquery, Javascript, Ajax, CSS, HTML5 etc.
+I have strong experience with NodeJs framworks like express.js, Sails.Js, Strongloop etc. Also worked with mongodb database with nodejs as backend. I have work experience with Angular 8+, IONIC, IONIC4, Firebase, Amazon Web Services, S3 bucket, React, Git, Gitlab, REST API, Google script, Google API services, Google Maps, Bootstrap, Material Design, JSON, Jquery, Javascript, Ajax, CSS, HTML5 etc.
 
 PROJECTS
 
