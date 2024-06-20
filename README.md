@@ -1,17 +1,17 @@
 GIRISH RATHOD
 
-MEAN/MERN Full Stack Web Developer (8+ years Experience)
+MEAN/MERN Full Stack Web Developer (10+ years Experience)
 MONGODB | NODEJS | EXPRESS.JS | ANGULAR 8+ | REACT | VUE | GOOGLE SCRIPT EXPERT | REACT NATIVE PLATFORM APP DEVELOPMENT
 
 ABOUT ME
 
-Hi I'm Girish Rathod professional and full time MEAN (MongoDB, Express.js, Angular 8+, NodeJs) and MERN (MongoDB, Express.js, React, NodeJs) stack Developer, Also expert for Google script, React, Vue, IONIC, Web Designer for responsive website creation.
+Hi I'm Girish Rathod professional and full time MEAN (MongoDB, Express.js, Angular 8+, NodeJs) and MERN (MongoDB, Express.js, React, NodeJs) stack Developer, Also expert for Google script, React, Vue, Web Designer for responsive website creation.
 
 I have strong experience with NodeJs framworks like express.js, Sails.Js, Strongloop etc. Also worked with mongodb database with nodejs as backend. I have work experience with Angular 8+, IONIC, IONIC4, Firebase, Amazon Web Services, S3 bucket, React, Git, Gitlab, REST API, Google script, Google API services, Google Maps, Bootstrap, Material Design, JSON, Jquery, Javascript, Ajax, CSS, HTML5 etc.
 
 PROJECTS
 
-1. Cupcake CRM - Resort/Cruise travel booking.
+1. Cupcake CMS - https://www.cupcakecastlestravel.com
 
         Technology : Node Js, Express Js
 
@@ -20,8 +20,18 @@ PROJECTS
         FrontEnd : Angular6, Bootstrap, Material, Google Script, Google API services, HTML, CSS
 
         Cupcake is an web application for US based company. Main feature of application is to book resort, cruise, flight and other itineraries for client. Client get email of confirmation of booking and agent get payment for that trip.
-        
-2. Indyra.
+
+2. Calculator - https://calculatortimes.com/
+
+        Technology : Node Js, Express Js
+
+        Database : Mongodb
+
+        FrontEnd : React, Bootstrap, HTML, CSS
+
+        Available with all type of calculators in one location. Like Finance, Fitness & Health, Maths etc.
+   
+3. Indyra.
 
         Technology : MERN stack
 
@@ -31,7 +41,7 @@ PROJECTS
 
         Indyra provides Coupon for branded products. User subscriptions to get redeem points to purchase branded products. Admin can manage users, redeem codes, products, brands etc       
         
-3. Transmodal - Manage company data.
+4. Transmodal - Manage company data.
 
         Technology : Node Js, Express Js
 
