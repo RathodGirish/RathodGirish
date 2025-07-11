@@ -1,36 +1,53 @@
 GIRISH RATHOD
 
-MEAN/MERN Full Stack Web Developer (10+ years Experience)
-MONGODB | NODEJS | EXPRESS.JS | ANGULAR 8+ | REACT | VUE | GOOGLE SCRIPT EXPERT | REACT NATIVE PLATFORM APP DEVELOPMENT
+MEAN/MERN Full Stack Web Developer & AI Enthusiast (10+ years Experience)
+MONGODB | NODEJS | EXPRESS.JS | ANGULAR 8+ | REACT | VUE | AI | GOOGLE SCRIPT EXPERT
 
 ABOUT ME
 ========
-Hi I'm Girish Rathod professional and full time MEAN (MongoDB, Express.js, Angular 8+, NodeJs) and MERN (MongoDB, Express.js, React, NodeJs) stack Developer, Also expert for Google script, React, Vue, Web Designer for responsive website creation.
+💼 I help businesses transform ideas into powerful digital solutions. With 10+ years in the software industry, I specialize in building scalable web and mobile apps using React, Node.js, MEAN/MERN stacks, and AI-powered integrations.
+
+🚀 From startups to enterprises, I've delivered 150+ successful projects across eCommerce, SaaS, and custom platforms streamlining workflows, boosting user engagement, and driving measurable growth.
+
+🔑 What sets me apart? I combine technical expertise with a business-first mindset, ensuring every solution aligns with your goals and delivers ROI. If you're looking for a reliable partner to take your product from concept to launch (and beyond), let's talk!
 
 SKILLS
 =====
 => Prompting: OpenAI GPT-4 / GPT-3.5, Cloud, Cursor, Windsurf etc 
+
 => Frontend: Angular 8+, ReactJS, VueJS,
+
 => Backend: NodeJS (ExpressJS, SailsJS, Strong Loop, Fastify), NestJS
+
 => Database: MongoDB, MySQL, DynamoDB, Firebase, Supabase
+
 => Other Technology: JavaScript/jQuery, CSS3 (Bootstrap, Material Design, Vuetify), HTML5, Google Script & Google API services, AWS
 (S3, Deployment), Firebase (Database, deployment)
+
 => Version Control: GitHub, GitLab, Bitbucket, SVN
+
 
 **PROJECT USING AI TOOLS:**
 ===========================
 https://preview--flux-data-navigator.lovable.app/sales/quota-tracking - Lovable AI
+
 https://live-amzdesignkit.lovable.app/manage-plan - Lovable AI
+
 https://app.amzdesignkit.com/ - Lovable AI
+
 https://preview--amzdesignkit-new-landing.lovable.app/ - Lovable AI
+
 https://preview--essential-comfort-landing.lovable.app/ - Lovable AI
+
 https://preview--react-creative-bloom.lovable.app/ - Lovable AI
+
 https://i-am-girish-rathod.lovable.app/ - Lovable AI
+
 https://progro.uk/ - Lovable AI
 
 
-PROJECTS
-========
+OTHER PROJECTS
+==============
 1. Cupcake CMS - https://www.cupcakecastlestravel.com
 
         Technology : Node Js, Express Js
