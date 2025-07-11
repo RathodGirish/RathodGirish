@@ -1,6 +1,7 @@
 GIRISH RATHOD
 
 MEAN/MERN Full Stack Web Developer & AI Enthusiast (10+ years Experience)
+
 MONGODB | NODEJS | EXPRESS.JS | ANGULAR 8+ | REACT | VUE | AI | GOOGLE SCRIPT EXPERT
 
 ABOUT ME
@@ -95,6 +96,13 @@ OTHER PROJECTS
         Database : Mongodb
 
         Kiaretail.co.za is your one-stop portal for buying, financing, and servicing Kia vehicles across South Africa. They specialize in new, demo, and certified used cars, backed by strong after-sales and promotional offers.
+
+EDUCATION
+=========
+
+Bachelor of Computer Applications (MCA) at GTU - 2013-2014
+
+Master of Computer Application (MCA) at GTU - 2010-2011
 
 
 WEBSITE: https://i-am-girish-rathod.lovable.app/
