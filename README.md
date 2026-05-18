@@ -105,7 +105,7 @@ Bachelor of Computer Applications (MCA) at GTU - 2013-2014
 Master of Computer Application (MCA) at GTU - 2010-2011
 
 
-WEBSITE: https://i-am-girish-rathod.lovable.app/
+WEBSITE: [Personal Site](https://girish-rathod.lovable.app/)
 
 SKYPE : rathod_girish
 
